@@ -1,0 +1,15 @@
+{
+    "currentStatus":0,
+    "currentData":[
+        {
+            "apkVersion":0,
+            "apkDownLoadUrl":"http:\/\/www.cdn-wh66.com",
+            "browser":"",
+            "id":3,
+            "jumpBrowser":"",
+            "updateContent":"版本优化，体验更流畅",
+            "url":" https://app.9hmo.com/"
+        }
+    ],
+    "apiException":null
+}
