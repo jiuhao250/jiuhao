@@ -8,7 +8,7 @@
             "id":3,
             "jumpBrowser":"",
             "updateContent":"",
-            "url":"https://app.9hmo.com/"
+            "url":"http:\/\/www.cdn-wh66.com"
         }
     ],
     "apiException":null
