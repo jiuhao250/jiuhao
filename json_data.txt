@@ -7,7 +7,7 @@
             "browser":"",
             "id":3,
             "jumpBrowser":"",
-            "updateContent":"°æ±¾ÓÅ»¯£¬ÌåÑé¸üÁ÷³©",
+            "updateContent":"",
             "url":"https://app.9hmo.com/"
         }
     ],
