@@ -3,12 +3,12 @@
     "currentData":[
         {
             "apkVersion":0,
-            "apkDownLoadUrl":"http:\/\/www.cdn-wh66.com",
+            "apkDownLoadUrl":"https://app.9hmo.com/",
             "browser":"",
             "id":3,
             "jumpBrowser":"",
-            "updateContent":"版本优化，体验更流畅",
-            "url":" https://app.9hmo.com/"
+            "updateContent":"掳忙卤戮脫脜禄炉拢卢脤氓脩茅赂眉脕梅鲁漏",
+            "url":"https://app.9hmo.com/"
         }
     ],
     "apiException":null
